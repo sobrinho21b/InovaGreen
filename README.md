@@ -107,10 +107,10 @@ Um aparelho capaz de medir o consumo e alertar sobre riscos, acompanhado de um s
 
 | Nome | Função | Responsabilidade |
 |------|-------|-----------------|
-| | Desenvolvedor | |
-| | Designer | |
-| | Testador | |
-| | Documentação | |
+|BERNARDO| Desenvolvedor | |
+|GABRIEL| Designer | |
+| DAVI E JOÃO| Testador | |
+| LUIZ E JESUS| Documentação | |
 
 ---
 
@@ -124,7 +124,6 @@ Um aparelho capaz de medir o consumo e alertar sobre riscos, acompanhado de um s
 
 ## 📷 Protótipos / Telas
 
-Inserir imagens ou links para:
 
 https://inovagreen.netlify.app/
 
