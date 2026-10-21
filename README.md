@@ -8,54 +8,36 @@
 ## 📌 Informações Gerais
 
 - **Nome do Projeto:** INOVA GREEN
-- **Equipe:** 
+- **Equipe:** Luiz Alberto Rodrigues De Freitas, João Vitor de Souza Amaral
+Gabriel Oliveira Diniz Sales, Davi Gualberto Campos, Jesus Emanuel
 - **Curso:** Técnico em Informática
-- **Instituição:** Nome da Escola
-- **Ano/Semestre:** 
-- **Professor Orientador:** 
-- **Cliente/Setor Solicitante:** (Ex: Secretaria, Biblioteca, Coordenação)
-
+- **Instituição:** FUNEC Riacho
+- **Ano/Semestre:** 3 ano
+- **Professor Orientador:** Vanusa Ramos Aguiar
+- **Cliente/Setor Solicitante:** Coordenação
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Descrever o objetivo principal do software.
 
-Exemplo:
-
-Desenvolver um sistema web para registrar e controlar o empréstimo de livros da biblioteca escolar, permitindo consultas rápidas, controle de devoluções e geração de relatórios.
-
+O Inova Green visa medir a corrente elétrica do aparelho ligado a ele (sensor ACS712 + Arduino) e mostra potência e corrente no display. Depois, analisa o risco de gasto do mês e acende o LED correspondente.
 ---
 
 ## 👥 Público-Alvo
 
-Quem utilizará o sistema?
-
-Exemplo:
-
-- Funcionários da biblioteca
-- Professores
-- Alunos
+Diretoria, Coordenação e alunos
 
 ---
 
 ## 🧩 Problema a Ser Resolvido
 
-Descrever qual problema existe atualmente.
-
-Exemplo:
-
-Atualmente o controle de empréstimos é feito manualmente em cadernos, o que dificulta a organização e a geração de relatórios.
+Na sociedade contemporânea, o consumo excessivo de energia elétrica vem crescendo juntamente com a falta de informação e educação sobre os próprios gastos mensais.
 
 ---
 
 ## 💡 Solução Proposta
 
-Descrever a solução que será desenvolvida.
-
-Exemplo:
-
-Um sistema web com cadastro de usuários, livros e controle automático de empréstimos e devoluções.
+Um aparelho capaz de medir o consumo e alertar sobre riscos, acompanhado de um site educacional
 
 ---
 
@@ -65,31 +47,18 @@ Um sistema web com cadastro de usuários, livros e controle automático de empr�
 
 - [ ] Cadastro de usuários
 - [ ] Login no sistema
-- [ ] Cadastro de itens (ex: livros, equipamentos, etc.)
-- [ ] Edição de dados
-- [ ] Exclusão de registros
-- [ ] Pesquisa/Busca
-- [ ] Relatórios
-- [ ] Controle de acesso por perfil
+- [ ] Cadastro de compras
+- [ ] Conscientização sobre a "dor do cliente"
+
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem:
-- Framework:
-- Banco de Dados:
-- Ferramentas:
+- Linguagem: HTML, CSS
+- Ferramentas: Claude
 - Versionamento: Git e GitHub
 
-Exemplo:
-
-- Front-end: HTML, CSS, JavaScript
-- Back-end: Node.js
-- Banco de Dados: MySQL
-- IDE: VS Code
-
----
 
 ## 🗂️ Estrutura do Projeto
 
@@ -110,7 +79,6 @@ Exemplo:
 - RF01 – O sistema deve permitir cadastrar usuários
 - RF02 – O sistema deve permitir editar usuários
 - RF03 – O sistema deve permitir excluir usuários
-- RF04 – O sistema deve permitir pesquisar usuários
 
 ---
 
@@ -146,7 +114,7 @@ Exemplo:
 
 ---
 
-## 🔐 Controle de Acesso (se aplicável)
+## 🔐 Controle de Acesso 
 
 - Administrador
 - Usuário
@@ -158,9 +126,7 @@ Exemplo:
 
 Inserir imagens ou links para:
 
-- Figma
-- Canva
-- Wireframes
+https://inovagreen.netlify.app/
 
 ---
 
