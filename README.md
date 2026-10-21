@@ -7,7 +7,7 @@
 
 ## 📌 Informações Gerais
 
-- **Nome do Projeto:** 
+- **Nome do Projeto:** INOVA GREEN
 - **Equipe:** 
 - **Curso:** Técnico em Informática
 - **Instituição:** Nome da Escola
